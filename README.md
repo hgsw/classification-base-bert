@@ -11,7 +11,9 @@
 
 ## 项目介绍
 
-本项目使用`google-bert/bert-base-chinese`模型进行中文文本分类任务，使用中文数据集进行训练，训练完成后，可以导出模型，进行预测。
+本项目使用`google-bert/bert-base-chinese`模型进行中文文本分类任务，使用中文数据集进行训练，训练完成后，可以导出模型，进行预测。  \
+[数据集下载地址](http://thuctc.thunlp.org/)  \
+[相关问题分析](https://blog.csdn.net/weixin_42924890/article/details/141164332?spm=1001.2014.3001.5502)
 
 ## 环境安装
 
