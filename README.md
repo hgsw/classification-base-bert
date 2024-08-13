@@ -16,7 +16,7 @@
 ## 环境安装
 
 1. 创建新的虚拟环境   \
-`conda create -n bert_env python=3.8`
+`conda create -n bert_env python==3.8`
 2. 激活环境  \
 `conda activate bert_env`
 3. 安装依赖包，临时使用镜像源  \

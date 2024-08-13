@@ -8,6 +8,6 @@ model = BertModel.from_pretrained(model_name)
 tokenizer = BertTokenizer.from_pretrained(model_name)
 
 # 保存模型
-save_directory = "./bert-base-chinese"
-model.save_pretrained(save_directory)
-tokenizer.save_pretrained(save_directory)
+save_dir = "./bert-base-chinese"
+model.save_pretrained(save_dir)
+tokenizer.save_pretrained(save_dir)
