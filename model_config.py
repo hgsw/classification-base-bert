@@ -19,3 +19,6 @@ test_data_path = "THUCNews/data/test.csv"
 
 # 批量测试时的batch_size
 test_batch_size = 16
+
+# LoRA微调后的模型文件地址，按需修改
+model_path_lora = "./lora_results/checkpoint-11250"
